@@ -64,3 +64,10 @@
 <img src='images/Screen Shot 2022-02-12 at 12.52.12 AM.png'>
 <img src='images/Screen Shot 2022-02-12 at 12.53.05 AM.png'>
 <img src='images/Screen Shot 2022-02-12 at 12.53.12 AM.png'>
+
+##### 7️⃣ Let's go to Azure Data Studio to check our new table
+
+<img src='images/Screen Shot 2022-02-12 at 1.04.07 AM.png'> 
+
+# 🔴voilà! Congratulations for creation your first Table in SQL server by usiong your MacBook🔴
+
