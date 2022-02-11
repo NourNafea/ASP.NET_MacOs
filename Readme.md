@@ -16,6 +16,8 @@
 ###### We’ll need to create an ID on [Docker](https://hub.docker.com) or log in with the one you already have. After you’ve logged in, you’ll need to download a Microsoft-hosted docker image called Azure SQL Edge. We’ll use docker commands to download this image to our local system, and then run it in a docker container on the localhost port. We’ll be able to use the SQL server on our M1-based Mac once we run the image in the container.
 #### Step 4
 ###### We can use the mac OS terminal to download the docker image. Open the terminal in your Mac System and Enter the command:
-`docker pull mcr.microsoft.com/azure-sql-edge`
+`docker pull mcr.microsoft.com/azure-sql-edge` 
+###### Docker will start pulling the image from the web repository and downloading it to your local machine after you run the command above. The image is also visible in the Docker Desktop window, as illustrated below.
+
 
 
