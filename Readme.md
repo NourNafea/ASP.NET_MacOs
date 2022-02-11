@@ -18,6 +18,8 @@
 ###### We can use the mac OS terminal to download the docker image. Open the terminal in your Mac System and Enter the command:
 `docker pull mcr.microsoft.com/azure-sql-edge` 
 ###### Docker will start pulling the image from the web repository and downloading it to your local machine after you run the command above. The image is also visible in the Docker Desktop window, as illustrated below.
-
+#### Step 5
+###### Once you’ve downloaded the Docker image, you’ll need to execute it in a Docker container on a live localhost port. Use the same terminal window to run the command below. 
+`docker run -d — name MySQLServer -e ‘ACCEPT_EULA=Y’ -e ‘SA_PASSWORD=your_password123’ -p 1433:1433 mcr.microsoft.com/azure-sql-edge`
 
 
