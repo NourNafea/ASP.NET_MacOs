@@ -49,3 +49,5 @@
 <img src ='images/Screen Shot 2022-02-12 at 12.15.07 AM.png'>
 
 ##### 2️⃣ Then create a class and call it whatever you want your database context to be called. I'll call mine ApplicationDbContext.cs (If it's already there, it's probably called ApplicationDbContext.cs and you can leave it as this or update the name to whatever you want. You'll just need to rename some references later where ever they're found) 
+##### 3️⃣ Once created, we need to override the OnConfiguring method to read the connection string of database from SQL server via appsettings.json file as shown below
+<img src = 'images/code-snapshot.png'>
