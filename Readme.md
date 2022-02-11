@@ -12,6 +12,7 @@
 #### Step 2
 ###### After that go running SQL Query and other DB activities, you’ll need to download an IDE. SQL Server Management Studio is the greatest tool for SQL Server to run SQL Query, although it is only supported on Windows OS. Microsoft has developed an alternative to SQL Server Management Studio, thanks to their team. Azure Data Studio is the tool’s name. This tool will be used on our M1-based Mac.
 `Download Azure Data Studio` [Click here](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-macos)
-
+#### Step 3
+###### We’ll need to create an ID on [Docker](https://hub.docker.com) or log in with the one you already have. After you’ve logged in, you’ll need to download a Microsoft-hosted docker image called Azure SQL Edge.
 
 
