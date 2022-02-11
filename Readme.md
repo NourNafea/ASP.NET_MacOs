@@ -24,7 +24,7 @@
 ###### When the command completes successfully, go to the container option in the Docker desktop window and look for a container with the same name as the one we specified in the command.
 #### 🔴 Step 6
 ###### After that, we can log in to Azure Data Studio using the credentials we just created. Here’s how you can get in touch with it. You can now construct queries to generate tables, stored procedures, and other objects using the new query option. If you forget your password, you may simply remove the image and establish a new one.
-## Now lets start creating our first project 💻
+## Now let's start creating our first project 💻
 ###### I'll assume you have created your .Net Core project and it's noice and fresh (Nine-Nine!) and that you are intending to use code-first approach. I personally am using a .Net Core application template with C#, MVC and Github. 
 ###### Here's a noice clean project:
 <img src='images/Screen Shot 2022-02-11 at 11.47.08 PM.png'>
@@ -70,4 +70,4 @@
 <img src='images/Screen Shot 2022-02-12 at 1.04.07 AM.png'> 
 
 ## 🔴voilà! Congratulations for creating your first Table in SQL server by using your MacBook🔴
-
+All codes are located in this [repo](https://github.com/NourNafea/DbConnectionDotnet6Core.git)
