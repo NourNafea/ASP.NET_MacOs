@@ -27,5 +27,10 @@
 ## Now lets start creating our first project 💻
 ###### I'll assume you have created your .Net Core project and it's noice and fresh (Nine-Nine!) and that you are intending to use code-first approach. I personally am using a .Net Core application template with C#, MVC and Github. 
 ###### Here's a noice clean project:
-
 <img src='images/Screen Shot 2022-02-11 at 11.47.08 PM.png'>
+#### 🔴 Install NuGet packages 
+`Microsoft.EntityFrameworkCore`
+`Microsoft.EntityFrameworkCore.Design`
+`Microsoft.EntityFrameworkCore.Tools`
+`Microsoft.EntityFrameworkCore.SqlServer`
+
