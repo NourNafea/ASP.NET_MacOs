@@ -54,3 +54,6 @@
 
 ##### 4️⃣ Set Dependency Injection with service container. This is done in our Program.cs file as shown below:
 <img src='images/Screen Shot 2022-02-12 at 12.36.15 AM.png'>
+
+##### 5️⃣  Let's now go into appsettings.json and tell our application about our data context. 
+<img src='images/Screen Shot 2022-02-12 at 12.46.53 AM.png'>
