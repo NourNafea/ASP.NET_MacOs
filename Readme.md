@@ -29,6 +29,7 @@
 ###### Here's a noice clean project:
 <img src='images/Screen Shot 2022-02-11 at 11.47.08 PM.png'>
 #### 🔴 Install NuGet packages 
+
 `Microsoft.EntityFrameworkCore`
 `Microsoft.EntityFrameworkCore.Design`
 `Microsoft.EntityFrameworkCore.Tools`
