@@ -45,3 +45,7 @@
 <img src='images/Screen Shot 2022-02-12 at 12.04.53 AM.png'>
 
 #### 🔴 Okay let's hookup our models to a database.
+##### 1️⃣ Create a new directory (file) and call it Data 
+<img src ='images/Screen Shot 2022-02-12 at 12.15.07 AM.png'>
+
+##### 2️⃣ Then create a class and call it whatever you want your database context to be called. I'll call mine ApplicationDbContext.cs (If it's already there, it's probably called ApplicationDbContext.cs and you can leave it as this or update the name to whatever you want. You'll just need to rename some references later where ever they're found) 
