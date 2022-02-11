@@ -44,3 +44,4 @@
 ###### Using code first, we need to have some classes created to populate our DB with. In my application, I am going to create a student class.
 <img src='images/Screen Shot 2022-02-12 at 12.04.53 AM.png'>
 
+#### 🔴 Okay let's hookup our models to a database.
