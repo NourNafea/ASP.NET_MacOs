@@ -21,5 +21,6 @@
 #### Step 5
 ###### Once you’ve downloaded the Docker image, you’ll need to execute it in a Docker container on a live localhost port. Use the same terminal window to run the command below. 
 `docker run -d — name MySQLServer -e ‘ACCEPT_EULA=Y’ -e ‘SA_PASSWORD=your_password123’ -p 1433:1433 mcr.microsoft.com/azure-sql-edge`
-
-
+###### When the command completes successfully, go to the container option in the Docker desktop window and look for a container with the same name as the one we specified in the command.
+#### Step 6
+###### After that, we can log in to Azure Data Studio using the credentials we just created. Here’s how you can get in touch with it.
