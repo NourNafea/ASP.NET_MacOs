@@ -23,4 +23,5 @@
 `docker run -d — name MySQLServer -e ‘ACCEPT_EULA=Y’ -e ‘SA_PASSWORD=your_password123’ -p 1433:1433 mcr.microsoft.com/azure-sql-edge`
 ###### When the command completes successfully, go to the container option in the Docker desktop window and look for a container with the same name as the one we specified in the command.
 #### Step 6
-###### After that, we can log in to Azure Data Studio using the credentials we just created. Here’s how you can get in touch with it.
+###### After that, we can log in to Azure Data Studio using the credentials we just created. Here’s how you can get in touch with it. You can now construct queries to generate tables, stored procedures, and other objects using the new query option. If you forget your password, you may simply remove the image and establish a new one.
+
