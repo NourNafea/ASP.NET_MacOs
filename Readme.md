@@ -5,5 +5,13 @@
 ###### Actually that's the best IDE to develop .NET application on MacOs (Apple silicon). However a lot of things that are easily accomplished in Visual Studio take a few more steps to initially setup in Rider. Entity Framework is one of them. Hopefully this will help someone else set it up or me when I need to do this again for my next project and forget 😁
 ###### First Go download the full version of Rider from [jetbrains.com](https://www.jetbrains.com/dotnet)
 ###### Then you may install The UI for EntityFramework Core from [plugins.jetbrains](https://plugins.jetbrains.com/plugin/18147-entity-framework-core-ui)
+### Install SQL Server in Mac M1
+#### Step 1
+###### We must utilize Docker because MacOS does not provide native support for Microsoft technology. Fortunately, Docker already supports ARM applications, so we can get it from the Docker website. 
+`Direct Download Link (Docker)` [Click here](https://desktop.docker.com/mac/stable/arm64/Docker.dmg?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=header)
+#### Step 2
+###### After that go running SQL Query and other DB activities, you’ll need to download an IDE. SQL Server Management Studio is the greatest tool for SQL Server to run SQL Query, although it is only supported on Windows OS. Microsoft has developed an alternative to SQL Server Management Studio, thanks to their team. Azure Data Studio is the tool’s name. This tool will be used on our M1-based Mac.
+`Download Azure Data Studio` [Click here](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15#get-azure-data-studio-for-macos)
+
 
 
