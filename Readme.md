@@ -31,7 +31,10 @@
 #### 🔴 Install NuGet packages 
 
 `Microsoft.EntityFrameworkCore`
+
 `Microsoft.EntityFrameworkCore.Design`
+
 `Microsoft.EntityFrameworkCore.Tools`
+
 `Microsoft.EntityFrameworkCore.SqlServer`
 
