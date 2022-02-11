@@ -1,4 +1,4 @@
-# ASP.NET_MacOs
+# ASP.NET_MacOs 💻 🍏 
 ## setting up the environment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ### 1️⃣ Install Rider
 ###### Rider is made by the same company who does Resharper(JetBrains). Resharper is awesome and makes your life a lot easier when you're coding. It can also suggest better ways of doing things. It also works like a charm on Mac which is great for me who likes to work across my PC and Mac. 
