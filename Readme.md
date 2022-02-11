@@ -57,3 +57,8 @@
 
 ##### 5️⃣  Let's now go into appsettings.json and tell our application about our data context. 
 <img src='images/Screen Shot 2022-02-12 at 12.46.53 AM.png'>
+##### 6️⃣ Now let's actually go and build 🏗 and then add a migration and create our database 🔥
+<img src='images/Screen Shot 2022-02-12 at 12.52.03 AM.png'>
+<img src='images/Screen Shot 2022-02-12 at 12.52.12 AM.png'>
+<img src='images/Screen Shot 2022-02-12 at 12.53.05 AM.png'>
+<img src='images/Screen Shot 2022-02-12 at 12.53.12 AM.png'>
